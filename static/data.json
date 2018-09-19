@@ -1,0 +1,20 @@
+{
+  "images": [
+    "./static/background/01_hunt_begin.jpg",
+    "./static/background/yharnam002.jpg",
+    "./static/background/yharnam003.png"
+  ],
+  "captions": [{
+      "en": "Let the hunt begin.",
+      "ko": "야수 사냥의 밤이 시작된다."
+    },
+    {
+      "en": "Let the hunt begin",
+      "ko": "성직자야 말로 가장 무서운 야수가 된다."
+    },
+    {
+      "en": "Let the hunt begin",
+      "ko": "이런 세상에, 무엇이었나? 사냥 때문인가, 피 때문인가, 아니면 끔찍한 악몽 때문인가?"
+    }
+  ]
+}
